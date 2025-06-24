@@ -1,9 +1,5 @@
 **Diabetes Risk Prediction Using Logistic Regression and Random Forest**
 
-Author: Rifda Qurrotul 'Ain
-Domain: Healthcare
-Method: Binary Classification using Logistic Regression and Random Forest
-
 ## 1. Project Domain
 
 ### Background
